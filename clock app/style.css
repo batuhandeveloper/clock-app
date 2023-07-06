@@ -1,0 +1,19 @@
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 98.20vh;
+    background: linear-gradient(to bottom, #0f2027, #203a43, #2c5364);
+  }
+  
+  #saat {
+    font-size: 72px;
+    font-family: 'Helvetica', sans-serif;
+    text-align: center;
+    padding: 20px;
+    color: #fff;
+    background-color: rgba(0, 0, 0, 0.8);
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.4);
+    border-radius: 10px;
+  }
+  
